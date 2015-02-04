@@ -13,7 +13,7 @@ Languages:
 Technologies:
 * [Meteor](https://www.meteor.com/) - as much as possible
 * [NodeJS](http://nodejs.org/) - when meteor isn't appropriate
-* [Web Components])(http://webcomponents.org/) - as much as possible
+* [Web Components](http://webcomponents.org/) - as much as possible
 * [Bootstrap 3](http://getbootstrap.com/) - base css/components
 * [Polymer](https://www.polymer-project.org/) - baseline web components
 * [JSPM](http://jspm.io/) - browser package registry
