@@ -17,7 +17,8 @@ Technologies
 ------------
 
 * [Meteor](https://www.meteor.com/) - as much as possible
-* [NodeJS](http://nodejs.org/) - when meteor isn't appropriate
+* [6to5](https://6to5.org/) - for running ES6 code in NodeJS via 6to5Node (when meteor isn't appropriate)
+* [6to5](https://6to5.org/) - ES6 transpiling
 * [Web Components](http://webcomponents.org/) - as much as possible
 * [Bootstrap 3](http://getbootstrap.com/) - base css/components
 * [Polymer](https://www.polymer-project.org/) - baseline web components
@@ -33,3 +34,12 @@ Tools
 * [NPM](https://www.npmjs.com/) - build tool for NPM modules
 * [github](https://github.com/) - source control
 
+Modules
+-------
+* Modules should be as fine grained as possible
+* Each module shall be hosted in its own github repository
+* Client side modules should be published to the JSPM registry
+* Server side modules should be published to the NPM registry
+* Meteor only modules should be published to the Atmosphere
+* TBD: Whether or not we publish as ES5 code
+* 
