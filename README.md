@@ -6,13 +6,23 @@ side functionality can be implemented using JavaScript which simplifies the tech
 This believe if based on the enhancements coming with JavaScript ES6 and the success of Node.JS on the server side.
 
 Languages:
-* JavaScript ES6 (as much as possible)
+* [JavaScript ES6](https://github.com/lukehoban/es6features) - as much as possible
 * JavaScript ES5 (third party libraries are acceptable)
 * C/C++ (only if absolutely necessary)
 
-Runtimes:
-* Meteor (as much as possible)
-* NodeJS (when meteor isn't appropriate)
+Technologies:
+* [Meteor](https://www.meteor.com/) - as much as possible
+* [NodeJS](http://nodejs.org/) - when meteor isn't appropriate
+* [Web Components])(http://webcomponents.org/) - as much as possible
+* [Bootstrap 3](http://getbootstrap.com/) - base css/components
+* [Polymer](https://www.polymer-project.org/) - baseline web components
+* [JSPM](http://jspm.io/) - browser package registry
+* [NPM](https://www.npmjs.com/) - npm package registry
 
-Third Party Libraries
-* Bootstrap 3
+Tools
+* [Mocha](http://unitjs.com/guide/mocha.html) - unit testing
+* [6to5](https://6to5.org/) - ES6 transpiling
+* [JetBrains WebStorm](https://www.jetbrains.com/webstorm/) - IDE
+* [NPM](https://www.npmjs.com/) - build tool for NPM modules
+* [github](https://github.com/) - source control
+
